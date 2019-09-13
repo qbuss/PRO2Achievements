@@ -1,0 +1,11 @@
+C:\github\PRO2Achievements\rockpapersissors\bin\Debug\netcoreapp2.2\rockpapersissors.deps.json
+C:\github\PRO2Achievements\rockpapersissors\bin\Debug\netcoreapp2.2\rockpapersissors.runtimeconfig.json
+C:\github\PRO2Achievements\rockpapersissors\bin\Debug\netcoreapp2.2\rockpapersissors.runtimeconfig.dev.json
+C:\github\PRO2Achievements\rockpapersissors\bin\Debug\netcoreapp2.2\rockpapersissors.dll
+C:\github\PRO2Achievements\rockpapersissors\bin\Debug\netcoreapp2.2\rockpapersissors.pdb
+C:\github\PRO2Achievements\rockpapersissors\obj\Debug\netcoreapp2.2\rockpapersissors.csprojAssemblyReference.cache
+C:\github\PRO2Achievements\rockpapersissors\obj\Debug\netcoreapp2.2\rockpapersissors.csproj.CoreCompileInputs.cache
+C:\github\PRO2Achievements\rockpapersissors\obj\Debug\netcoreapp2.2\rockpapersissors.AssemblyInfoInputs.cache
+C:\github\PRO2Achievements\rockpapersissors\obj\Debug\netcoreapp2.2\rockpapersissors.AssemblyInfo.cs
+C:\github\PRO2Achievements\rockpapersissors\obj\Debug\netcoreapp2.2\rockpapersissors.dll
+C:\github\PRO2Achievements\rockpapersissors\obj\Debug\netcoreapp2.2\rockpapersissors.pdb

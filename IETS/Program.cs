@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace B1L1CompileThis
+namespace IETS
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo mensen!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
-    
