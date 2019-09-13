@@ -1,0 +1,11 @@
+C:\github\PRO2Achievements\B1L1CompileThis\bin\Debug\netcoreapp2.2\B1L1CompileThis.deps.json
+C:\github\PRO2Achievements\B1L1CompileThis\bin\Debug\netcoreapp2.2\B1L1CompileThis.runtimeconfig.json
+C:\github\PRO2Achievements\B1L1CompileThis\bin\Debug\netcoreapp2.2\B1L1CompileThis.runtimeconfig.dev.json
+C:\github\PRO2Achievements\B1L1CompileThis\bin\Debug\netcoreapp2.2\B1L1CompileThis.dll
+C:\github\PRO2Achievements\B1L1CompileThis\bin\Debug\netcoreapp2.2\B1L1CompileThis.pdb
+C:\github\PRO2Achievements\B1L1CompileThis\obj\Debug\netcoreapp2.2\B1L1CompileThis.csprojAssemblyReference.cache
+C:\github\PRO2Achievements\B1L1CompileThis\obj\Debug\netcoreapp2.2\B1L1CompileThis.csproj.CoreCompileInputs.cache
+C:\github\PRO2Achievements\B1L1CompileThis\obj\Debug\netcoreapp2.2\B1L1CompileThis.AssemblyInfoInputs.cache
+C:\github\PRO2Achievements\B1L1CompileThis\obj\Debug\netcoreapp2.2\B1L1CompileThis.AssemblyInfo.cs
+C:\github\PRO2Achievements\B1L1CompileThis\obj\Debug\netcoreapp2.2\B1L1CompileThis.dll
+C:\github\PRO2Achievements\B1L1CompileThis\obj\Debug\netcoreapp2.2\B1L1CompileThis.pdb
